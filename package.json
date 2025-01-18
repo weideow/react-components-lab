@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-components-lab1",
+=======
+  "name": "react-components-lab",
+>>>>>>> e29bcdaf5df45174df5699b5c114411a53d2cb12
   "private": true,
   "version": "0.0.0",
   "type": "module",
